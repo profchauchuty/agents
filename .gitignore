@@ -1,0 +1,5 @@
+# estado de execução — nunca versionar
+corte/corte.json
+corte/erros.log
+corte/teste-livro*.json
+*.tmp

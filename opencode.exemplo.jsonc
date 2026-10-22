@@ -1,0 +1,6 @@
+{
+  // Cole no seu ~/.config/opencode/opencode.jsonc, ajustando o caminho.
+  // Cria o arquivo se ele ainda não existir.
+  "$schema": "https://opencode.ai/config.json",
+  "plugins": ["C:/Users/cesar/.config/opencode/maquiavel/plugin"]
+}
